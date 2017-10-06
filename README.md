@@ -50,3 +50,6 @@ We still start off by choosing and acquiring an optical mouse sensor and associa
 
 ## Proposed outcomes and benefits
 We will produce a microfluidic droplet flow measurement system that can be interfaced via serial or LCD or could feed directly into our existing open source flow system.  Open source design, code and documentation will be included.  Benefits include low cost components, but accurate flow rate measurements and control for highly repeatable microfluidics experiments.
+
+## License
+MIT License
