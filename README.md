@@ -7,7 +7,7 @@ We aim to develop a sensor system for measuring the flow rate and characterising
 
 # Team
 ## "Tobey" Tobias Wenzel
-![TW](/Images/Tobias_Wenzel.jpg =150x)<br>
+![TW](Images/Tobias_Wenzel.jpg =150x)
 Department of Physics & Department of Chemical Engineering and Biotechnology, University of Cambridge
 Is an experienced open source hardware developer and documenter. He contributes expertise to the team in quantitative biology with microorganisms, optical imaging (incl. the open flexure microscope), 3d-printing, and micro-fabrication techniques.
 
