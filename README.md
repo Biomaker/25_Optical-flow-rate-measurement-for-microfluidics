@@ -7,7 +7,7 @@ We aim to develop a sensor system for measuring the flow rate and characterising
 
 # Team
 ## "Tobey" Tobias Wenzel
-<img src="Images/Tobias_Wenzel.jpg" alt="image"/><br>
+![](./Images/Tobias_Wenzel.jpg =150x)<br>
 Department of Physics & Department of Chemical Engineering and Biotechnology, University of Cambridge
 Is an experienced open source hardware developer and documenter. He contributes expertise to the team in quantitative biology with microorganisms, optical imaging (incl. the open flexure microscope), 3d-printing, and micro-fabrication techniques.
 
@@ -26,7 +26,7 @@ Base4 Innovation
 Monica has experience in microfluidics, especially producing water droplets in oil.
 
 ## Steven Burgess
-<img src="Images/SJB_profile.jpg" alt="image"/><br>
+<img src="Images/SJB_profile.png" alt="image"/><br>
 eLife Sciences
 Has experience working on a project that used microdroplets and has an awareness of the user requirements. Member of biomakespace. Will be involved in the testing phase of the project to feed back into the design and help with dissemination of results via social media.  Experience with openscope.
 
